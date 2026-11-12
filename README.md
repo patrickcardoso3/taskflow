@@ -1,4 +1,4 @@
-# TaskFlow
+# TaskFlow (Versão A)
 
 API REST de tarefas em Python (FastAPI). Projeto-base da disciplina **DevOps Tools** (ADS · UNIPAR · 2026).
 
